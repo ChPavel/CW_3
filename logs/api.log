@@ -1,0 +1,7 @@
+2022-06-18 20:06:12,332 - [DEBUG] - api_logger - (views.py).api_posts_single(43) - Запрошен пост 2
+2022-06-18 20:07:23,473 - [DEBUG] - api_logger - (views.py).api_posts_all(27) - Запрошены все посты
+2022-06-18 20:12:33,970 - [DEBUG] - api_logger - (views.py).api_posts_single(39) - Обращение к несуществующему посту 700
+2022-06-18 20:43:16,389 - [DEBUG] - api_logger - (views.py).api_posts_single(38) - Обращение к несуществующему посту 700
+2022-06-18 20:43:16,389 - [ERROR] - api_logger - (views.py).api_error_404(48) - Ошибка 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2022-06-18 20:43:20,890 - [DEBUG] - api_logger - (views.py).api_posts_single(41) - Запрошен пост 2
+2022-06-18 20:43:23,768 - [DEBUG] - api_logger - (views.py).api_posts_all(27) - Запрошены все посты
