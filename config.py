@@ -1,3 +1,4 @@
+SQLALCHEMY_DATABASE_URI = "postgresql://flask_app:flask_app_password@pg/flask_app"
 import os.path
 
 DATA_PATH_POSTS = os.path.join("data", "posts.json")

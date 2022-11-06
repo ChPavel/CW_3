@@ -2,7 +2,7 @@
 import os
 import logging
 import pytest
-import main
+import app
 
 
 class TestApi:
