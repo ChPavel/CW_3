@@ -1,6 +1,8 @@
 import logging
 
 from flask import Blueprint, jsonify, abort
+
+import db
 from bp_posts.dao.post_dao import PostDAO
 from bp_posts.dao.comment_dao import CommentsDAO
 from bp_posts.dao.post import Post
